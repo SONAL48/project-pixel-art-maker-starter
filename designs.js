@@ -3,7 +3,7 @@
 
 // When size is submitted by the user, call makeGrid()
 
-function makeGrid() {
+function makeGrid(height,width) {
 
 // Your code goes here!
   var html="";
@@ -33,3 +33,4 @@ $(function(){
                   }
 
 })
+});
