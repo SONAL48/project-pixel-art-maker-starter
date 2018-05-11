@@ -29,7 +29,7 @@ $(function(){
     if($(this).css("background-color") == "#FFFFFF" ||$(this).css("background-color") == "rgba(0,0,0,0) || $(this).css("background-color") == "rgb(255,255,255)") {
     $(this).css("background-color", color);
   } else {
-      $(this).css("background-color", #FFFFFF);                   
+      $(this).css("background-color", "#FFFFFF");                   
           }
 
 })
